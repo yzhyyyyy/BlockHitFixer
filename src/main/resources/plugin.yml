@@ -1,0 +1,4 @@
+name: BlockHitFixer
+version: '${version}'
+main: dk.mintmc.blockhitfixer.BlockHitFixer
+api-version: '1.21'
